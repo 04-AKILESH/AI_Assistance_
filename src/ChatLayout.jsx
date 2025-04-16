@@ -90,7 +90,7 @@ const styles = {
     width: "250px",
     backgroundColor: "#202123",
     color: "#fff",
-    padding: "21px",
+    padding: "20px",
     display: "flex",
     flexDirection: "column",
   },
